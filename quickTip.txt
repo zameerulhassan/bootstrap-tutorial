@@ -1,0 +1,16 @@
+-use quoateblock to quote + inside use footer to get footer for that quote.
+-use cite tag on specific element, to use tooltip, use title inside.
+-to get list elements on one line, use list-inline class.
+-to remove bullits from list, use list-unstyped class
+-to organize lists, you may use list-group class on list, and list group-items on items.
+-to use a badge on an item inside list, use span and badge class.
+-panel and panel body + panel heading.
+-use well class to create a well.
+-place a form inside a well. (a block around a from)
+-jumbotron
+-media and media body. 
+-put image gallery inside a panel. then wrap a class of class and data-toggle - collapse.
+-image caroursel.=>https://www.youtube.com/watch?v=JegnLxG_xCQ&list=PL6n9fhu94yhXd4xnk-j5FGhHjUv1LsF0V&index=51
+-model
+-all of jquery-UI is available thu bootstrap.
+-
